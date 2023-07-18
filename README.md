@@ -3,7 +3,6 @@ Aim of the project is to find whether the customer is eligible for a loan or not
 <h1 align="center">Loan Status Prediction</h1>
 
 # Table of Contents
-- [Demo](#demo)
 - [Introduction](#introduction)
 - [Motivation](#motivation)
 - [Project Explanation](#project-explanation)
